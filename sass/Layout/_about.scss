@@ -1,0 +1,11 @@
+/* REGLES DE LA SECTION A PROPOS */
+
+.about {
+    @include about;
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      color: #4d4d4d;
+    }
+}
