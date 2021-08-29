@@ -101,7 +101,7 @@ body, html {
 footer {
   background-color: #353535;
   padding: 25px;
-  color: white;
+  color: #fff;
 }
 
 h3 {
@@ -119,7 +119,7 @@ ul li {
   padding: 5px 0 5px 0;
 }
 ul li a {
-  color: white;
+  color: #fff;
 }
 
 .fa-utensils {
@@ -193,7 +193,7 @@ ul li a {
   padding: 4px 4px;
   border-radius: 50%;
   background-color: #9356DC;
-  color: #FFF;
+  color: #fff;
   position: absolute;
   top: 30%;
   left: -4%;
@@ -436,7 +436,7 @@ ul li a {
 
 /* ANIMATION COEUR */
 .fill {
-  color: black;
+  color: #000;
   cursor: pointer;
 }
 .fill:hover {
