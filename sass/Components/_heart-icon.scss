@@ -3,6 +3,7 @@
 .fill {
     color: #000;
     cursor: pointer;
+    
     &:hover {
         animation: fill 0.9s ease-in-out;
         display: inline-block;

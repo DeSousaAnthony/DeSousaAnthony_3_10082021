@@ -12,23 +12,26 @@
 
 .starter {
     animation: fadein 1s ease-in-out;
-    @include desktop {
-      width: 400px;
-    }
+    
+      @include desktop {
+        width: 400px;
+      }
 }
 
 .dish {
     animation: fadein 2s ease-in-out;
-    @include desktop {
-      width: 400px;
-    }
+
+      @include desktop {
+        width: 400px;
+      }
 }
 
 .dessert {
     animation: fadein 3s ease-in-out;
-    @include desktop {
-      width: 400px;
-    }
+
+      @include desktop {
+        width: 400px;
+      }
 }
 
 .cross {
